@@ -1,0 +1,1 @@
+# 23_2_alumno_curso_type_orm
